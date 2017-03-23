@@ -81009,7 +81009,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFasdSjDV2JIhI="
 							},
-							"name": "DS RegistroPaceinte",
+							"name": "DS RegistroPaciente",
 							"visible": true,
 							"defaultDiagram": false,
 							"ownedViews": [
@@ -81044,7 +81044,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "DS RegistroPaceinte",
+											"text": "DS RegistroPaciente",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5,
 											"wordWrap": false
